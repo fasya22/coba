@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Datasett</folder>
+	<filename>200.jpeg</filename>
+	<path>D:\Fasya Cantik\Kuliah\Semester 6\.capstone\Datasett\200.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>e_waste</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>25</ymin>
+			<xmax>1280</xmax>
+			<ymax>908</ymax>
+		</bndbox>
+	</object>
+</annotation>
