@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Datasett</folder>
+	<filename>glass11.jpg</filename>
+	<path>D:\Fasya Cantik\Kuliah\Semester 6\.capstone\Datasett\glass11.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>glass</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>75</ymin>
+			<xmax>463</xmax>
+			<ymax>304</ymax>
+		</bndbox>
+	</object>
+</annotation>

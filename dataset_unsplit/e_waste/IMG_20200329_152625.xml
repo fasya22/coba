@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Datasett</folder>
+	<filename>IMG_20200329_152625.jpg</filename>
+	<path>D:\Fasya Cantik\Kuliah\Semester 6\.capstone\Datasett\IMG_20200329_152625.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3456</width>
+		<height>4608</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>e_waste</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>495</xmin>
+			<ymin>1704</ymin>
+			<xmax>2995</xmax>
+			<ymax>2889</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>e_waste</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>559</xmin>
+			<ymin>604</ymin>
+			<xmax>2631</xmax>
+			<ymax>1497</ymax>
+		</bndbox>
+	</object>
+</annotation>

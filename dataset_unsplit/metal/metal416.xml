@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Datasett</folder>
+	<filename>metal416.jpg</filename>
+	<path>D:\Fasya Cantik\Kuliah\Semester 6\.capstone\Datasett\metal416.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>734</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>metal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>185</xmin>
+			<ymin>139</ymin>
+			<xmax>620</xmax>
+			<ymax>582</ymax>
+		</bndbox>
+	</object>
+</annotation>
